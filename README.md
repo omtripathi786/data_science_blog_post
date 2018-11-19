@@ -43,3 +43,13 @@ This dataset has funding information of the Indian startups from January 2015 to
 - Who are the important investors in the Indian Ecosystem?
 - How much funds does startups generally get in India?
 
+### Summary
+
+- The plot shows that Undisclosed Investors have done the most investments.
+- during the time of demonetization nov 2017 onwards funding got decrease significantly.
+- Followed by Sequoia Capitals with 64 Investments.
+- Individuals like Ratan Tata( Former chairman of Tata Sons) and Rajan Anandan( VP,Google SE Asia and India)have invested in 30 and 25 companies respectively, most by any individuals.
+- Banglore attracted the most investors with a total of 627 investors(26%).
+- Seed Funding and Private funding is the most preferred way of investments by Investors.
+- Maximum funding to a Startups is : 1400000000 $USD
+- Minimum funding to a Startups is 16000 $USD
